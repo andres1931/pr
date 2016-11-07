@@ -1,0 +1,45 @@
+
+
+
+.cabecera{
+	position:relative;
+}
+
+.figura{
+	
+	display:inline-block;
+}
+
+.nav{
+	
+	display:inline-block;
+	position:absolute;
+	right:0;
+}
+
+li{
+display:inline-block;
+margin-left:30px;
+}
+
+.proyecto{
+	margin:30px;
+	border:1px solid grey;
+	border-radius:20px;
+	width: 80%;
+	margin:auto;
+	position:relative;
+	height: 400px;
+}
+
+.div{
+	display:inline-block;
+	width: 60%;
+	position: absolute;
+	
+}
+
+.figura2{
+	display: inline-block;
+	position: absolute;
+}
